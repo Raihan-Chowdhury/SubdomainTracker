@@ -1,0 +1,7 @@
+http://www.brainstation.com.bd/ [301]
+http://mail.brainstation.com.bd/ [301]
+http://ftp.brainstation.com.bd/ [200]
+http://webmail.brainstation.com.bd/ [301]
+http://webdisk.brainstation.com.bd/ [302]
+http://cpanel.brainstation.com.bd/ [301]
+http://whm.brainstation.com.bd/ [301]
